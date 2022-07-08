@@ -1,0 +1,7 @@
+Servers update
+1)sudo -i
+2)apt update (showing how many pakeges update)
+3)hostnamectl (screen shot before update)
+4)apt upgrade
+5)apt update (showing all pakages up to date...)
+6)hostnamectl (screenshot after update)
